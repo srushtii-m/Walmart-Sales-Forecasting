@@ -16,3 +16,13 @@ Implementing various models and tuning them for optimal performance.
   - **Random Forest and XGBoost Regressors**: Included hyperparameter tuning.
   - **LSTM and MLP Models**: Explored for deep learning approaches.
 
+## Results and Conclusion
+- The SARIMA model proved to be the most effective, particularly due to its handling of seasonality and trends in the sales data.
+- Machine learning models like XGBoost and Random Forest showed promise but required extensive tuning.
+- Deep learning approaches, while insightful, were limited by computational demands.
+- Challenges such as hyperparameter tuning and feature selection were pivotal in model performance.
+- The potential for integrating more dynamic features like economic indicators or social media trends could be explored to improve forecasting accuracy.
+
+## Challenges and Future Work
+This project encountered challenges in hyperparameter tuning, feature selection, and computational constraints. Future work could explore integrating more external data sources and experimenting with advanced neural network architectures.
+
